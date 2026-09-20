@@ -73,3 +73,8 @@ The application uses text files to store data.
 
 ```text
 ClintsDetails.txt
+
+```
+### Users Data
+```text
+Users.txt
